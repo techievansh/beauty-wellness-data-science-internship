@@ -1,0 +1,7 @@
+Metric,Before Cleaning,After Cleaning
+Total Records,12219,10192
+Exact Duplicate Rows,2027,0
+Missing Values,0,0
+Invalid Ratings,0,0
+Empty Cleaned Reviews,17,10
+Invalid Timestamps,0,0
