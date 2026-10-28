@@ -1,0 +1,4 @@
+test,statistic,p_value,interpretation
+Spearman: review length vs rating,-0.12998608498751857,1.1882417662425076e-39,Statistically significant association
+Chi-square: verified purchase vs low rating,262.9628897994242,3.8787403546711057e-59,Evidence of association
+Mann-Whitney U: verified vs unverified ratings,4573811.0,0.14472580667528134,No statistically significant difference detected

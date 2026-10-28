@@ -1,0 +1,14 @@
+feature,description
+review_length_chars,Number of characters in review text
+review_length_words,Number of words in review text
+title_length_chars,Number of characters in review title
+positive_review,"1 if rating is at least 4, otherwise 0"
+low_rating,"1 if rating is 1 or 2, otherwise 0"
+neutral_rating,"1 if rating is 3, otherwise 0"
+has_helpful_vote,1 if helpful vote count is greater than zero
+verified_purchase_clean,Normalized verified purchase indicator
+analysis_date,Review date parsed from timestamp or review_date
+review_year,Year of review
+review_month,Month of review
+review_quarter,Quarter of review
+review_day_of_week,"Day of week, Monday=0 through Sunday=6"

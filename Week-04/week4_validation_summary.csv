@@ -1,0 +1,13 @@
+metric,value
+Raw dataset rows,12219.0
+Cleaned dataset rows,10192.0
+Featured dataset rows,10192.0
+Raw dataset columns,8.0
+Cleaned dataset columns,12.0
+Featured dataset columns,25.0
+New engineered columns,13.0
+Missing cells in cleaned data,10.0
+Duplicate rows in cleaned data,0.0
+Mean rating,4.2902
+Median rating,5.0
+Valid timestamps in featured data,10192.0
