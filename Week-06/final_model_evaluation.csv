@@ -1,0 +1,5 @@
+Model,Accuracy,Weighted_F1,Macro_F1
+Logistic Regression,0.7749,0.7966,0.5731
+Multinomial Naive Bayes,0.7317,0.7691,0.5624
+Decision Tree,0.7003,0.7268,0.4511
+Balanced Naive Bayes,0.7317,0.7691,0.5624
