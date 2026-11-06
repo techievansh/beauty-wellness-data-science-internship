@@ -1,0 +1,5 @@
+Model,Macro_ROC_AUC
+Logistic Regression,0.854
+Multinomial Naive Bayes,0.8476
+Decision Tree,0.6447
+Balanced Naive Bayes,0.8476
